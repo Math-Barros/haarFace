@@ -18,7 +18,7 @@ Face detector using webcam made with computer vision - Python and openCv
 python gameController.py
 ```
 
-- Notebook explaining the functions [`notebook/haarCascade.ipynb`](./notebook/haarCascade.ipynb)
+- Notebook explaining the functions [`haarCascade.ipynb`](./notebook/haarCascade.ipynb)
 
 ---
 developed by [Matheus Barros](https://github.com/Math-Barros/)
